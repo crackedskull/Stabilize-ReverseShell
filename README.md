@@ -15,6 +15,7 @@ cd Stabilize-ReverseShell
 ```
 python3 stabilize_rev_shell.py
 ```
+[!] Script will write the commands, you just have to put your cursor on the terminal where the netcat session is running.
 
 # Dependencies
 pyautogui
