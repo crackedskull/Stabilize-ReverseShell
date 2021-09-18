@@ -17,3 +17,7 @@ pyautogui
 Installation:
 
 pip3 install pyautogui
+
+Credits: Armand Kruger
+
+https://github.com/RoqueNight/Reverse-Shell-TTY-Cheat-Sheet
