@@ -23,7 +23,7 @@ def dumb_to_smart():
     pyautogui.write("stty -raw echo")
     pyautogui.press("enter")
     time.sleep(1)
-    pyautogui.write(f"nc -lvnp {port}")
+    pyautogui.write("fg")
     pyautogui.press("enter")
     time.sleep(1)
     pyautogui.write("reset")
