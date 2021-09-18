@@ -23,3 +23,7 @@ pip3 install pyautogui
 Armand Kruger / RoqueNight
 
 https://github.com/RoqueNight/Reverse-Shell-TTY-Cheat-Sheet
+
+# Refer
+
+https://crackedskull.github.io
