@@ -19,6 +19,6 @@ pip3 install pyautogui
 
 # Credits
 
-Armand Kruger
+Armand Kruger / RoqueNight
 
 https://github.com/RoqueNight/Reverse-Shell-TTY-Cheat-Sheet
