@@ -4,18 +4,26 @@ Upgrading Simple Shells to Fully Interactive TTYs
 
 # How to use
 
+```
 git clone https://github.com/crackedskull/Stabilize-ReverseShell.git
+```
 
+```
 cd Stabilize-ReverseShell
+```
 
+```
 python3 stabilize_rev_shell.py
+```
 
 # Dependencies
 pyautogui
 
 # Installation
 
+```
 pip3 install pyautogui
+```
 
 # Credits
 
