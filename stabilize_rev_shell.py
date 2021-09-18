@@ -34,7 +34,8 @@ def dumb_to_smart():
 
     pyautogui.write(f"stty cols {columns} rows {lines}")
     pyautogui.press("enter")
-
+    
+    print("\nShell Successfully Stabilized!")
     exit()
 
 dumb_to_smart()
