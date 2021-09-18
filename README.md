@@ -1,7 +1,6 @@
 # Stabilize-ReverseShell
 An automated script to stabilize a dumb netcat reverse shell into a fully functional one.Most of the time the shell is very fragile, it breaks easily. 
-
-
+Upgrading Simple Shells to Fully Interactive TTYs
 
 # How to use
 
