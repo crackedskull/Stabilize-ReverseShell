@@ -22,7 +22,7 @@ pip3 install pyautogui
 
 Armand Kruger / RoqueNight
 
-https://github.com/RoqueNight/Reverse-Shell-TTY-Cheat-Sheet : Simple TTY cheat sheet for shell stabilization. Contribute to RoqueNight/Reverse-Shell-TTY-Cheat-Sheet development by creating an account on GitHub.
+https://github.com/RoqueNight/Reverse-Shell-TTY-Cheat-Sheet : Simple TTY cheat sheet for shell stabilization. 
 
 # Refer
 
