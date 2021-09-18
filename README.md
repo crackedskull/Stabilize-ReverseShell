@@ -4,7 +4,7 @@ Upgrading Simple Shells to Fully Interactive TTYs
 
 # How to use
 
-git clone https://github.com/crackedskull/Stabilize-ReverseShell.git
+# code git clone https://github.com/crackedskull/Stabilize-ReverseShell.git
 
 cd Stabilize-ReverseShell
 
