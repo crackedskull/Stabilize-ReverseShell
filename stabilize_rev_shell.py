@@ -6,7 +6,6 @@ importing_pty = '"import pty;pty.spawn("bin/bash")"'
 def dumb_to_smart():
     usr_in = input("[!] Please check if python is installed on the target server using [which python] (y/n): ")
     port = input("Port on which the dumb reverse shell is running on: ")
-    # cols_lines = input("No. of columns and lines your terminal has[no. of lines = tput lines ; no. of columns = tput cols]: ")
     lines = input("No. of lines your terminal has: ") #Command to determine number of lines = tput lines
     columns = input("No. of columns your terminal has: ") #Command to determine number of columns = tput cols
     if usr_in == "y":
