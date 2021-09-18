@@ -1,5 +1,5 @@
 # Stabilize-ReverseShell
-An automated script to stabilize a dumb netcat reverse shell into a fully functional one.Most of the time the shell is very fragile, you cant press arrow keys, ctrl + C etc.. 
+An automated script to stabilize a dumb netcat reverse shell into a fully functional one.Most of the time the shell is very fragile, it breaks easily. 
 
 
 
