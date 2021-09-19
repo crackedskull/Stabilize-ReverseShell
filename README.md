@@ -20,6 +20,8 @@ python3 stabilize_rev_shell.py
 # Dependencies
 pyautogui
 
+More about pyautogui and its modules : https://pyautogui.readthedocs.io/en/latest/
+
 # Installation
 
 ```
